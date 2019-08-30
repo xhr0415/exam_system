@@ -16,5 +16,15 @@
          mysql数据库、
 
 ### 目录结构：
-
     
+    /src/
+        /api            //所有接口
+        /components     //全局组件
+        /config         //配置插件
+        /router         //路由
+        /scss           //css样式
+        /store          //vuex仓库
+        /utils          //公用方法
+        /views          //视图组件
+        App.vue         //根组件
+        main.js         //入口文件
