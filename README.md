@@ -28,3 +28,7 @@
         /views          //视图组件
         App.vue         //根组件
         main.js         //入口文件
+
+### 指令：
+    启动前台(demo里)：     npm run serve
+    启动后台(exam-egg里)： npm run dev
